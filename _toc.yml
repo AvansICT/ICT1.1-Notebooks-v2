@@ -4,4 +4,4 @@
 format: jb-book
 root: intro
 chapters:
- - branching/if
+ - file: branching/if
