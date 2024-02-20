@@ -11,3 +11,6 @@ graph LR
   IO2 --> VAR3
 
 ```
+
+
+[documentatie](https://github.com/dotnet/interactive/tree/main/docs)
