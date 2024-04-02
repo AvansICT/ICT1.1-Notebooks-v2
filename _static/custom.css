@@ -2578,5 +2578,5 @@ footer img {
 
 .primary-toggle
 {
-  display: none;
+  display: none !important;
 }
