@@ -1,6 +1,9 @@
 document.onload = function() {
-    mermaid.initialize({ startOnLoad: false });
+    elements = document.querySelectorAll(".highlight-mermaid pre span");
+    elements.forEach(e => e.remove());
+
+    mermaid.initialize({ startOnLoad: false });    
     mermaid.run({
-      querySelector: '.mermaid-highlight',
+      querySelector: '.highlight-mermaid pre',
     });
 };
