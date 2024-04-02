@@ -1943,40 +1943,40 @@ body {
 /*====== Typography =========*/
 /* AVANS: hieronder kleur FF5257 vervangen door avans rood kleur C6002A bij de H1, bij H2 kleur op zwart (000000) gezet ipv origineel 017D79 */
 h1 {
-  color: #C6002A;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  font-weight: 400;
+  color: #C6002A !important;
+  margin-top: 30px !important;
+  margin-bottom: 30px !important;
+  font-weight: 400 !important;
 }
 
 h2 {
-  color: #000000;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  font-weight: 400;
+  color: #000000 !important;
+  margin-top: 30px !important;
+  margin-bottom: 30px !important;
+  font-weight: 400 !important;
 }
 
 h3 {
-  color: #000000;
-  margin-top: 15px;
-  margin-bottom: 15px;
-  font-weight: 700;
+  color: #000000 !important;
+  margin-top: 15px !important;
+  margin-bottom: 15px !important;
+  font-weight: 700 !important;
 }
 
 h4 {
-  color: #000000;
-  text-transform: uppercase;
-  font-weight: 700;
+  color: #000000 !important;
+  text-transform: uppercase !important;
+  font-weight: 700 !important;
 }
 
 h5 {
-  color: #000000;
-  font-weight: 700;
+  color: #000000 !important;
+  font-weight: 700 !important;
 }
 
 h6 {
-  color: #000000;
-  font-weight: 700;
+  color: #000000 !important;
+  font-weight: 700 !important;
 }
 
 p,
