@@ -1,4 +1,4 @@
 mermaid.initialize({ startOnLoad: false });
-await mermaid.run({
+mermaid.run({
   querySelector: '.mermaid-highlight',
 });
