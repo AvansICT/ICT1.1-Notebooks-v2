@@ -28,3 +28,4 @@ html:
   use_issues_button: false
   use_repository_button: false
   home_page_in_navbar: false
+  extra_footer: <script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.0/dist/mermaid.min.js"></script>
