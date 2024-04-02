@@ -1,4 +1,5 @@
-document.onload = function() {
+window.addEventListener('load', function() {
+    
     console.log("Initializing");
     elements = document.querySelectorAll(".highlight-mermaid pre span");
     console.log(elements.length + " spans");
@@ -10,4 +11,4 @@ document.onload = function() {
     mermaid.run({
       querySelector: '.highlight-mermaid pre',
     });
-};
+});
