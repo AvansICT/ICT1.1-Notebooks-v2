@@ -9,3 +9,10 @@
     1. Polyglot Notebooks
 1. Python 3
 1. dotnet SDK
+
+
+codestyle voor notebooks:
+
+- taal variabele/methode-namen?? 
+engels met nederlands commentaar? 
+nederlands? 
