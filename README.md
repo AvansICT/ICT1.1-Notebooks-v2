@@ -2,8 +2,8 @@
 
 ## Benodigdheden
 
-1. Visual Studio Code (VSC)
-1. VSC Extensions
+1. Visual Studio Code (VS Code)
+1. VS Code Extensions
     1. Markdown Preview Mermaid Support
     1. Jupyter
     1. Polyglot Notebooks
