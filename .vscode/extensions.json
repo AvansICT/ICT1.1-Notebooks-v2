@@ -1,7 +1,6 @@
 {
 	"recommendations": [
 		"bierner.markdown-mermaid",
-        "ms-toolsai.jupyter",
-        "ms-dotnettools.dotnet-interactive-vscode"
+        "ms-toolsai.jupyter"
 	]
 }
